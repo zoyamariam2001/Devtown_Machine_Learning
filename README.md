@@ -1,1 +1,1 @@
-# Devtown_Machine_Learning
+This project was created during the DevTown Machine Learning Bootcamp.
